@@ -1,0 +1,31 @@
+
+.target-container {
+	width: 595px;
+	height: 842px;
+	position: relative;
+}
+
+#target {
+	position: absolute;
+}
+
+.course {
+	position: absolute;
+	top: 392px;
+	left: 50%;
+	transform: translateX(-50%);
+}
+
+.name {
+	position: absolute;
+	top: 470px;
+	left: 50%;
+	transform: translateX(-50%);
+}
+
+.date {
+	position: absolute;
+	top: 535px;
+	left: 50%;
+	transform: translateX(-50%);
+}
